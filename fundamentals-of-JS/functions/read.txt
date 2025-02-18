@@ -1,0 +1,2 @@
+"const" is an keyword used in the JS which cannot be editable of an value once assigned.
+"let" is an key word which is an opposite of the "const"
